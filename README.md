@@ -1,3 +1,4 @@
-#Active Any Window's!
-
-Step 1: go to Google search your Windows version example: Windows 8.1 Pro Copy the key and paste it in: _slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX_
+#How To Use:
+- Run-as Administrator.
+- Copy a Windows Key from Google or Somewhere. 
+- And paste it in the Command Prompt when you're by the .bat file.
